@@ -25,6 +25,8 @@
     "@types/react-dom": "^16.8.5",
     "git-cz": "^3.2.1",
     "parcel-bundler": "^1.12.3",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "sass": "^1.22.9",
+    "typescript": "^3.5.3"
   }
 }
