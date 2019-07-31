@@ -1,4 +1,4 @@
-# empty-project
+# Skywalk React 0.3
 
 Empty project.
 
